@@ -11,4 +11,3 @@ class DbManager:
     @abstractmethod
     def run_query(self, query):
         pass
-    
